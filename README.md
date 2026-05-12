@@ -2,7 +2,6 @@
 
 This is a static resource hub for the D&D files in the shared Google Drive library:
 
-https://drive.google.com/drive/folders/1--voDZq_j_efkoUehk4LHyAa04KLcjcY
 
 ## Files
 
